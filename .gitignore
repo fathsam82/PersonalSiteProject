@@ -1,0 +1,16 @@
+# macOS specific
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
+
+# VSCode specific
+.vscode/
